@@ -1,0 +1,12 @@
+E:\Projects\competency-tests\csharp-console-game\bin\Debug\netcoreapp2.2\ConsoleGame.deps.json
+E:\Projects\competency-tests\csharp-console-game\bin\Debug\netcoreapp2.2\ConsoleGame.runtimeconfig.json
+E:\Projects\competency-tests\csharp-console-game\bin\Debug\netcoreapp2.2\ConsoleGame.runtimeconfig.dev.json
+E:\Projects\competency-tests\csharp-console-game\bin\Debug\netcoreapp2.2\ConsoleGame.dll
+E:\Projects\competency-tests\csharp-console-game\bin\Debug\netcoreapp2.2\ConsoleGame.pdb
+E:\Projects\competency-tests\csharp-console-game\obj\Debug\netcoreapp2.2\ConsoleGame.csprojAssemblyReference.cache
+E:\Projects\competency-tests\csharp-console-game\obj\Debug\netcoreapp2.2\ConsoleGame.csproj.CoreCompileInputs.cache
+E:\Projects\competency-tests\csharp-console-game\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfoInputs.cache
+E:\Projects\competency-tests\csharp-console-game\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfo.cs
+E:\Projects\competency-tests\csharp-console-game\obj\Debug\netcoreapp2.2\ConsoleGame.dll
+E:\Projects\competency-tests\csharp-console-game\obj\Debug\netcoreapp2.2\ConsoleGame.pdb
+E:\Projects\competency-tests\csharp-console-game\obj\Debug\netcoreapp2.2\ConsoleGame.genruntimeconfig.cache
