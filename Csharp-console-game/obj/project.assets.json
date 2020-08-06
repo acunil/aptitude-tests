@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Projects\\competency-tests\\Csharp-console-game\\ConsoleGame.csproj",
+      "projectUniqueName": "E:\\Projects\\competency-tests\\Csharp-console-game\\ConsoleGame.csproj",
       "projectName": "ConsoleGame",
-      "projectPath": "e:\\Projects\\competency-tests\\Csharp-console-game\\ConsoleGame.csproj",
+      "projectPath": "E:\\Projects\\competency-tests\\Csharp-console-game\\ConsoleGame.csproj",
       "packagesPath": "C:\\Users\\Lucian\\.nuget\\packages\\",
-      "outputPath": "e:\\Projects\\competency-tests\\Csharp-console-game\\obj\\",
+      "outputPath": "E:\\Projects\\competency-tests\\Csharp-console-game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -741,7 +741,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
