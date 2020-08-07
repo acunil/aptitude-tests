@@ -47,11 +47,11 @@ namespace ConsoleGame
     {
       if (coord < 0)
       {
-        return max;
+        return 0;
       }
       else if (coord >= max)
       {
-        return 0;
+        return max;
       }
       else
       {
