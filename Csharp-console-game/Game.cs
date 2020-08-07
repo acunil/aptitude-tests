@@ -11,20 +11,16 @@ namespace ConsoleGame
       switch (key)
       {
         case "DownArrow":
-          x = 0;
           y = 1;
           break;
         case "UpArrow":
-          x = 0;
           y = -1;
           break;
         case "RightArrow":
           x = 1;
-          y = 0;
           break;
         case "LeftArrow":
           x = -1;
-          y = 0;
           break;
       }
       
