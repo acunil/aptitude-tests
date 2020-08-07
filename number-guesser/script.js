@@ -18,11 +18,7 @@ function compareGuesses(humanGuess, computerGuess, target) {
 
 // Increases winner's score by 1 each round.
 function updateScore(winner) {
-  if (winner === "human") {
-    humanScore++;
-  } else {
-    computerScore++;
-  }
+  winner === "human" ? humanScore++ : computerScore++;
 }
 
 // Progresses the round number at the end of each round.
