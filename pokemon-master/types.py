@@ -11,6 +11,7 @@ class Grass(Pokemon):
         self.health = self.max_health
         super().__init__(name, "Grass", level)
 
+    # Type-specific attack to override Parent's default attack() method
     def attack(self, enemy):
         damage = 5 + int(self.level * 10)
         self.attack_method(enemy, damage, "Drain Life")
@@ -24,6 +25,7 @@ class Fire(Pokemon):
     def __init__(self, name, level=1):
         super().__init__(name, "Fire", level)
 
+    # Type-specific attack to override Parent's default attack() method
     def attack(self, enemy):
         damage = int(5 + self.level * 15)
         self.attack_method(enemy, damage, "Fire Blast")
@@ -37,6 +39,7 @@ class Water(Pokemon):
         self.health = self.max_health
         super().__init__(name, "Water", level)
 
+    # Type-specific attack to override Parent's default attack() method
     def attack(self, enemy):
         damage = int(15 + self.level * 5)
         self.attack_method(enemy, damage, "Bubble Gun")
@@ -50,6 +53,7 @@ class Electric(Pokemon):
     def __init__(self, name, level=1):
         super().__init__(name, "Electric", level)
 
+    # Type-specific attack to override Parent's default attack() method
     def attack(self, enemy):
         damage = int(10 + self.level * 10)
         self.attack_method(enemy, damage, "Shock")
