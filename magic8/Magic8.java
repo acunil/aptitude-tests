@@ -1,3 +1,4 @@
+package magic8;
 
 // Import required class
 import java.util.Random;
